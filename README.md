@@ -1,3 +1,14 @@
+# Weather Widget
+
+### by Sean Deery
+
+This weather widget was designed with React and requires API keys from Google and https://openweathermap.org/appid.
+
+It shows the current weather and a 7 day forecast for a location. The location is first set to the users location, and then the user can  select new locations based on suggestions from Google as they type.
+
+Check it out live at http://seandeery-weather-widget.s3-website-us-east-1.amazonaws.com/.
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
