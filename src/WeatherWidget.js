@@ -15,6 +15,7 @@ import Image from 'react-bootstrap/Image';
 // Import bootstrap css
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 // Import Google Places Autocomplete
 import PlacesAutocomplete from 'react-places-autocomplete';
 import {
